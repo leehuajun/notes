@@ -1,0 +1,1 @@
+# 安装Kubernetes Dashboard 1.8.2
