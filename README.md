@@ -9,6 +9,6 @@
 语法说明：![图片Alt](图片地址 “图片Title”)<br>
 ![美羊羊](http://n.sinaimg.cn/sports/transform/w634h438/20171201/LMyl-fypikwt0416102.jpg "美羊羊")
 
-![塞里](https://raw.githubusercontent.com/leehuajun/images/master/jIht-fyqwiqi9831795.jpg "塞里")
+![Sun](https://raw.githubusercontent.com/leehuajun/images/master/sun.jpg "Sun")
 
 ![头像](https://raw.githubusercontent.com/leehuajun/images/master/photo.jpg "头像")
